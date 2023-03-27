@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=FDDA0D&text=Yonguk's%20Dev-Home&fontSize=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=FDDA0D&text=Yonguk's%20Dev-Home&fontSize=40)
 
 ## Hi there Welcome! My Dev-Home👋
 
@@ -10,4 +10,4 @@
 
 <br>
 
-[![yonggguk's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yonggguk&theme=github&bg_color=white&radius=4)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![yonggguk's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yonggguk&theme=github-light&radius=4)](https://github.com/ashutosh00710/github-readme-activity-graph)
