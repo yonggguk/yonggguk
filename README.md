@@ -1,8 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=FDDA0D&text=Yonguk's%20Dev-Home&fontSize=40)
+<!-- ![header](https://capsule-render.vercel.app/api?type=soft&color=FDDA0D&text=Yonguk's%20Dev-Home&fontSize=40)-->
+## Hi there Welcome! Yonguk's Gtihub👋
 
-## Hi there Welcome! My Dev-Home👋
-
-### Hello, I'm Yonguk Kim!
+### I'm Yonguk Kim!
 
 ### :hammer_and_wrench: Language and Tools
 
