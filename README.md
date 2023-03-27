@@ -1,16 +1,13 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=soft&color=FDDA0D&text=Yonguk's%20Dev-Home&fontSize=40&animation=twinkling)
 
-<!--
-**yonggguk/yonggguk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there Welcome! My Dev-Home👋
 
-Here are some ideas to get you started:
+### Hello, I'm Yonguk Kim!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :hammer_and_wrench: Language and Tools
+
+<img height="32" width="32" src="https://cdn.simpleicons.org/OpenJDK/black" /> <img height="32" width="32" src="https://cdn.simpleicons.org/spring/green" /> <img height="32" width="32" src="https://cdn.simpleicons.org/springboot/green" /> <img height="32" width="32" src="https://cdn.simpleicons.org/github/black" /> <img height="32" width="32" src="https://cdn.simpleicons.org/slack/black" />
+
+<br>
+
+[![yonggguk's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yonggguk&theme=github&bg_color=white&radius=4)](https://github.com/ashutosh00710/github-readme-activity-graph)
