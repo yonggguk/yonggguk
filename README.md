@@ -7,7 +7,8 @@ I'm currently receiveing [dktechin-developer-training-education(with dktechin, K
 
 ### Interest
 - Spring, SpringBoot
-- Code Refactoring
+- Cloud Computing
+- Software Architecture
 - Clean Code
 
 
