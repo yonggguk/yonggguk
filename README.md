@@ -3,8 +3,6 @@
 
 ### Hi I'm Yonguk Kim.
 
-I'm currently receiveing [kosa-developer-training-education].
-
 ### Interest
 - Spring, SpringBoot
 - Cloud Computing
