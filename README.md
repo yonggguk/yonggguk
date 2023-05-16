@@ -3,7 +3,7 @@
 
 ### Hi I'm Yonguk Kim.
 
-I'm currently receiveing [dktechin-developer-training-education(with dktechin, KOSA)](https://github.com/yonggguk/dktechin-msa-full-stack-developer-training-course).
+I'm currently receiveing [kosa-developer-training-education].
 
 ### Interest
 - Spring, SpringBoot
