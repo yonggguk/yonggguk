@@ -19,4 +19,4 @@
 - #### Tools
   <img height="32" width="32" src="https://cdn.simpleicons.org/github/black" /> <img height="32" width="32" src="https://cdn.simpleicons.org/slack/#4A154B" /> <img height="32" width="32" src="https://cdn.simpleicons.org/intellijidea/#000000" />  
 
-[![yonggguk's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yonggguk&theme=github-light&radius=4)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- [![yonggguk's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yonggguk&theme=github-light&radius=4)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
